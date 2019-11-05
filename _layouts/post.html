@@ -15,7 +15,7 @@ layout: default
       <small>Tags: </small>
       {% for tag in sortedTags %}
         <span class="tag">
-          <small> <a href="{{ site.baseurl }}/tag/{{ tag }}">&nbsp;#{{ tag }}</a></small>
+          <small> <a href="{{ site.baseurl }}/tags#{{tag |slugify | append:'_cap'}}">&nbsp;#{{ tag }}</a></small>
         </span>&nbsp;
       {% endfor %}
       <br>

@@ -69,6 +69,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "category"
+    values:
+      layout: "category" 
+  -
+    scope:
+      path: ""
       type: tag
     values:
       layout: "tag"

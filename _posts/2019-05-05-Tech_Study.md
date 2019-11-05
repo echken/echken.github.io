@@ -2,9 +2,13 @@
 layout: post
 title: "Tech Study"
 date: 2019-05-05 08:00:00 +0000
-categories: Tech
+categories: private Tech
 tags: Tech
+hidden: true
 --- 
+一些需要进一步研究的技术
+
+
 
 #### KCP同 UDT/ENET????  
 

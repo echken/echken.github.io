@@ -1,0 +1,11 @@
+---
+layout: default
+title: Imagination Category
+---
+{% for post in site.posts %}
+  {% if post.categories contains 'Imagination' %}
+    <li>
+      <a href="{{post.url}}">{{post.title}}</a>
+    </li>
+  {% endif %}
+{% endfor %}

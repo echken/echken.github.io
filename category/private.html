@@ -1,0 +1,11 @@
+---
+layout: default
+title: private Category
+---
+{% for post in site.posts %}
+  {% if post.categories contains 'private' %}
+    <li>
+      <a href="{{post.url}}">{{post.title}}</a>
+    </li>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,16 @@
+<div class="categoried blog list">
+  <div>Categories:<br><br> 
+  Categories  <span class="category"><small>#{{ page.category }}</small></span>
+  {% for post in site.catgories[page.category] %}
+    {{ page.title }}<br>
+  {% endfor %}
+
+  <small>{{ post.date | date: date_format }}</small>
+</div>
+
+<!-- <h1>Posts categoried {{ page.slug }}</h1> -->
+<!-- <ol> -->
+<!--   {% for post in site.categories[page.slug] %} -->
+<!--   <li><a href="{{ post.url }}">{{ post.title }}</a></li> -->
+<!--   {% endfor %} -->
+<!-- </ol> -->

@@ -2,9 +2,13 @@
 layout: post
 title: "Think and Writing"
 date: 2019-06-03 08:00:00 +0000
-categories: Thinker
+categories: private Thinker
 tags: Thinker  
+published: false
 ---
+写作练习  
+
+
 
 # 思路记录　
 ## 一些想法  

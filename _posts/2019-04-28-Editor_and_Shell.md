@@ -2,9 +2,11 @@
 layout: post
 title: "Editor and Shell"
 date: 2019-04-23 08:00:00 +0000
-categories: Tools
+categories: pub Tools
 tags: Tools
 --- 
+frequently using tools
+
 
 ### 1. ***vim 自配置最常用快捷键..***  
 

@@ -2,8 +2,9 @@
 layout: post
 title: "Twitter Writing"
 date: 2019-09-23 08:00:00 +0000
-categories: Thinker
+categories: private Thinker
 tags: Thinker
+published: false
 ---
 
 0807   

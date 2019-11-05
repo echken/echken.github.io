@@ -2,9 +2,13 @@
 layout: post
 title: "Reading and Excerpt"
 date: 2019-05-16 08:00:00 +0000
-categories: Reader
+categories: private Reader
 tags: Reader 
+hidden: true
 ---
+摘抄 
+
+
 
 ### 利特尔法则（英语：Little's law）
 在一个稳定的系统（L）中，长期的平均顾客人数，等于长期的有效抵达率（λ），乘以顾客在这个系统中平均的等待时间（W）；

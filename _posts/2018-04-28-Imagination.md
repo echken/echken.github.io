@@ -2,9 +2,13 @@
 layout: post
 title: "Imagination"
 date: 2019-07-05 08:00:00 +0000
-categories: Imagination
+categories: private Imagination
 tags: Imagination
+published: false
 --- 
+一些想法
+
+
 
 i何为自然？在以人为主体的思考中占据统治地位的又是何种主题？这到底是怎样一个时代，时代精神的象征?
 

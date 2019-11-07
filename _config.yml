@@ -69,13 +69,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "category"
+      type: "categories"
     values:
       layout: "category" 
   -
     scope:
       path: ""
-      type: tag
+      type: "tags"
     values:
       layout: "tag"
 
